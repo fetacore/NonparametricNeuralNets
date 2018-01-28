@@ -1,0 +1,10 @@
+Package: MScThesisR
+Type: Package
+Title: Non-Parametric Econometrics Algorithms
+Version: 0.1.0
+Author: Dimitrios Karoukis
+Maintainer: Dimitrios Karoukis <jimkaroukis@gmail.com>
+Description: Various Kernels, Various Distances, Various Bandwidths, Various Regressions.
+License: GPL-2
+LazyData: TRUE
+RoxygenNote: 5.0.1
